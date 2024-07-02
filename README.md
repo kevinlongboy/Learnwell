@@ -68,7 +68,7 @@ Users are able to leave comments on any videos posted on the site and read ones 
 Ready to run the app? Follow the instructions below:
 
 ### 1. Navigate to GitHub:
-* Click <a href="https://github.com/kevinlongboy/Learnwell" alt="CraneBnB GitHub repository link">here</a> to be redirected to the CraneBnB page
+* Click <a href="https://github.com/kevinlongboy/Learnwell" alt="Learnwell GitHub repository link">here</a> to be redirected to the CraneBnB page
 <img src="assets/instructions/setup-instructions-step-1.gif" alt="Navigate to GitHub GIF" width="400">
 
 ### 2. Download the API: 
