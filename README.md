@@ -85,7 +85,7 @@ Ready to run the app? Follow the instructions below:
 
 ### 4. Initialize the backend: 
 * Open a new terminal
-* Navigate to the _backend_ folder
+* Navigate to the _backend_ folder by running the command: "cd backend"
 * Download dependencies by running the command: "npm install"
 * Initialize your database by running "npx dotenv sequelize db:migrate"
 * Populate your database by running "npx dotenv sequelize db:seed:all"
@@ -94,14 +94,14 @@ Ready to run the app? Follow the instructions below:
 
 ### 5. Initialize the frontend: 
 * Open a new terminal
-* Navigate to the _frontend_ folder
+* Navigate to the _frontend_ folder by running the command: "cd frontend"
 * Download dependencies by running the command: "npm install"
 * Start the frontend server by running the command: "npm start"
 <img src="assets/instructions/setup-instructions-step-5.gif" alt="Initialize the frontend GIF" width="400">
 
 ### 6. Launch the app:
 * Allow React to open the app in your browser
-* Welcome to CraneBnB
+* Welcome to Learnwell!
 <img src="assets/instructions/setup-instructions-step-6.gif" alt="Launch the app GIF" width="400">
 
 ---
