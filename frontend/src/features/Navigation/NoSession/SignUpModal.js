@@ -91,6 +91,7 @@ function SignUpModal({ modalFunc, contentFunc }) {
     return dispatch(sessionActions.signup(userData)).catch(
       async (res) => {
         const data = await res.json();
+        console.log("data,", data)
         if (data && data.errors) {
           data.errors.forEach(message => validationErrors.push(message));
           setErrors(validationErrors);

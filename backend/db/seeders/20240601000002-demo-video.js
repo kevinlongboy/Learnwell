@@ -786,7 +786,7 @@ const demoVideos = [
 
   /********************** subjectId 10: Technology **********************/
   { // id: 109,
-    userId: 1, // Demo
+    userId: 14, // Dorota
     subjectId: 10,
     title: `Learn JavaScript - Full Course for Beginners`,
     description: `This complete 134-part JavaScript tutorial for beginners will teach you everything you need to know to get started with the JavaScript programming language.`,
@@ -807,14 +807,14 @@ const demoVideos = [
     url: `https://youtu.be/oBt53YbR9Kk?si=a-5ABYB9uLBHDowv`,
   },
   { // id: 112,
-  userId: 1, // Demo
+  userId: 8, // Eric
   subjectId: 10,
   title: `Build a Brain Computer App with React Native`,
   description: `See a professional software engineer at work. Unscripted. Mistakes included.`,
   url: `https://www.youtube.com/live/iEKdtB53IXs?si=CL4L4qlmfX62z7RS`,
   },
   { // id: 113,
-  userId: 1, // Demo
+  userId: 4, // Dorota
   subjectId: 10,
   title: `C Programming Tutorial for Beginners`,
   description: `This course will give you a full introduction into all of the core concepts in the C programming language.`,
