@@ -8,7 +8,7 @@
 - [Overview](https://github.com/kevinlongboy/Learnwell?tab=readme-ov-file#overview)
 - [Features](https://github.com/kevinlongboy/Learnwell?tab=readme-ov-file#features)
 - [Download](https://github.com/kevinlongboy/Learnwell?tab=readme-ov-file#download)
-- [Tech Stack](https://github.com/kevinlongboy/Learnwell?tab=readme-ov-file#tech-stack)
+- [Tech Stack](https://github.com/kevinlongboy/Learnwell?tab=readme-ov-file#languages-and-libraries-used)
 - [Contact](https://github.com/kevinlongboy/Learnwell?tab=readme-ov-file#contact)
 
 ---
