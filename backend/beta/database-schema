@@ -1,0 +1,47 @@
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+
+Table users {
+  id integer [primary key]
+  firstName varchar
+  lastName varchar
+  username varchar
+  hashedPassword varchar
+  email varchar
+  avatar varchar
+  createdAt timestamp
+  updatedAt timestamp
+}
+
+Table subjects {
+  id integer [primary key]
+  name varchar
+  avatar varchar
+  createdAt timestamp
+  updatedAt timestamp
+}
+
+Table videos {
+  id integer [primary key]
+  userId integer
+  subjectId integer
+  title varchar
+  description varchar
+  url varchar
+  createdAt timestamp
+  updatedAt timestamp
+}
+
+Table comments {
+  id integer [primary key]
+  userId integer
+  videoId integer
+  comment varchar
+  createdAt timestamp
+  updatedAt timestamp
+}
+
+Ref: users.id < videos.userId 
+Ref: users.id < comments.userId 
+Ref: subjects.id < videos.subjectId 
+Ref: videos.id < comments.videoId 
