@@ -49,7 +49,6 @@ Users can also edit and delete previously uploaded videos:
 <br>
 <br>
 
-
 ### Comments
 
 _Get Into Heated Debates_
@@ -59,7 +58,6 @@ Continue your growth by getting feedback from your peers.
 Users are able to leave comments on any videos posted on the site and read ones left by other users:
 
 <img src="assets/gifs/comment.gif" alt="GIF of User leaving a comment" width="500">
-
 <br>
 <br>
 
