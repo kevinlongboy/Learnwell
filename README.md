@@ -35,14 +35,17 @@ _Learn Something New_
 
 Acquire knowledge and new skills by learning from your peers. 
 
-As a member of the site, each user is able to watch discussion videos created by other members: 
-<img src="assets/gifs/watch-discussion.gif" alt="GIF of User watching a Discussion video" width="250">
+As a member of the site, each user is able to watch discussion videos created by other members:
+
+<img src="assets/gifs/watch-discussion.gif" alt="GIF of User watching a Discussion video" width="500">
 
 ... Or start their own discussion by uploading their own video:
-<img src="assets/gifs/start-discussion.gif" alt="GIF of User starting a Discussion video" width="250">
+
+<img src="assets/gifs/start-discussion.gif" alt="GIF of User starting a Discussion video" width="500">
 
 Users can also edit and delete previously uploaded videos:
-<img src="assets/gifs/delete-discussion.gif" alt="GIF of User deleting a Discussion video GIF" width="250">
+
+<img src="assets/gifs/delete-discussion.gif" alt="GIF of User deleting a Discussion video GIF" width="500">
 <br>
 <br>
 
@@ -54,7 +57,8 @@ _Get Into Heated Debates_
 Continue your growth by getting feedback from your peers.
 
 Users are able to leave comments on any videos posted on the site and read ones left by other users:
-<img src="assets/gifs/comment.gif" alt="GIF of User leaving a comment" width="250">
+
+<img src="assets/gifs/comment.gif" alt="GIF of User leaving a comment" width="500">
 
 <br>
 <br>
