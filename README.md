@@ -18,7 +18,7 @@
 Welcome to Learnwell! A simple web application that allows users to create, comment on, and watch educational videos.
 
 ### Style Guide
-Visit the <a href="https://www.figma.com/design/wdkjKJt0j9wxk7cAeLOXTQ/Learnwell?node-id=78-1563" alt="Figma page">Figma page</a> for a look at the API's wire frames and style guide.
+Visit the <a href="https://www.figma.com/design/wdkjKJt0j9wxk7cAeLOXTQ/Learnwell?node-id=78-1563" alt="Figma page">Figma page</a> for a look at the API's style guide and wire frames.
 
 ### API Documentation
 Visit the <a href="https://github.com/kevinlongboy/Learnwell/wiki" alt="Wiki website">Wiki page</a> for documentation on the API's database schema and backend routes.
