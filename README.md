@@ -37,11 +37,11 @@ As a member of the site, each user is able to watch discussion videos created by
 
 <img src="assets/gifs/watch-discussion.gif" alt="GIF of User watching a Discussion video" width="500">
 
-... Or start their own discussion by uploading their own video:
+... Or start their own discussion by uploading a video:
 
 <img src="assets/gifs/start-discussion.gif" alt="GIF of User starting a Discussion video" width="500">
 
-Users can also edit and delete previously uploaded videos:
+Users can also edit and delete any of their previously uploaded videos:
 
 <img src="assets/gifs/delete-discussion.gif" alt="GIF of User deleting a Discussion video GIF" width="500">
 
