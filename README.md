@@ -5,11 +5,11 @@
 
 ## Contents
 
-- [Overview](https://github.com/kevinlongboy/Learnwell/blob/main/README.md#-overview)
-- [Features](https://github.com/kevinlongboy/Learnwell/blob/main/README.md#-features)
-- [Download](https://github.com/kevinlongboy/Learnwell/blob/main/README.md#-download)
-- [Tech Stack](https://github.com/kevinlongboy/AirBnB/blob/main/README.md#-tech-stack)
-- [Contact](https://github.com/kevinlongboy/AirBnB/blob/main/README.md#-contact)
+- [Overview](https://github.com/kevinlongboy/Learnwell?tab=readme-ov-file#overview)
+- [Features](https://github.com/kevinlongboy/Learnwell?tab=readme-ov-file#features)
+- [Download](https://github.com/kevinlongboy/Learnwell?tab=readme-ov-file#download)
+- [Tech Stack](https://github.com/kevinlongboy/Learnwell?tab=readme-ov-file#tech-stack)
+- [Contact](https://github.com/kevinlongboy/Learnwell?tab=readme-ov-file#contact)
 
 ---
 
