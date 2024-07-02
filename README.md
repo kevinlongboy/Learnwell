@@ -47,7 +47,6 @@ Users can also edit and delete previously uploaded videos:
 
 <img src="assets/gifs/delete-discussion.gif" alt="GIF of User deleting a Discussion video GIF" width="500">
 <br>
-<br>
 
 ### Comments
 
